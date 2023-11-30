@@ -1,2 +1,3 @@
 #!/usr/bin/python3
-import printing_easy
+import os
+os.write(1, b"#pythoniscool\n")
